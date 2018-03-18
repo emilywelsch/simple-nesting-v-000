@@ -66,7 +66,7 @@ def adding_matz
 #   :known_for => "Ruby",
 #    :languages => ["LISP", "C"]
 # }
-
+require 'pry';
 	programmer_hash =
  		{
         :grace_hopper => {
@@ -88,7 +88,7 @@ programmer_hash[:yukihiro_matsumoto] => {
   :languages => ["LISP", "C"]
 }
 programmer_hash
-# require 'pry'; binding.pry
+binding.pry
 end
 
 def changing_alan
