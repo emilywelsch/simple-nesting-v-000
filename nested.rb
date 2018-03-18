@@ -66,7 +66,7 @@ def adding_matz
 #   :known_for => "Ruby",
 #    :languages => ["LISP", "C"]
 # }
-require 'pry'; binding.pry
+# require 'pry'; binding.pry
 	programmer_hash =
  		{
         :grace_hopper => {
