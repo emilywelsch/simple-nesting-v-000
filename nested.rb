@@ -88,7 +88,7 @@ programmer_hash[:yukihiro_matsumoto] => {
   :languages => ["LISP", "C"]
 }
 programmer_hash
-require 'pry'; binding.pry
+# require 'pry'; binding.pry
 end
 
 def changing_alan
